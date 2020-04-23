@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "TowerOfHeroes"
+    }
+  },
+  "defaultProject": "TowerOfHeroes",
+  "cli": {
+    "analytics": false
+  }
 }
